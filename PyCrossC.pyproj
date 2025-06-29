@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>5a1c51c6-579e-4273-9d5f-58e8caa5e1ad</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>pycrossc\malloc.py</StartupFile>
+    <StartupFile>pycrossc\printf.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -26,6 +26,8 @@
   <ItemGroup>
     <Compile Include="pycrossc\Global.py" />
     <Compile Include="pycrossc\malloc.py" />
+    <Compile Include="pycrossc\sprintf.py" />
+    <Compile Include="pycrossc\printf.py" />
     <Compile Include="pycrossc\sinit.py" />
     <Compile Include="pycrossc\__init__.py" />
     <Compile Include="__init__.py" />
